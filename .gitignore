@@ -54,3 +54,6 @@ server.log
 /skills/
 # audit baseline artifacts (local only - metricas durables en tasks/WDA-00.md)
 /audit-baseline/
+
+# Local-only agent tooling (untracked, stays on disk)
+.opencode/
