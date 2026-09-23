@@ -1,0 +1,21 @@
+{
+  "tasks": {
+    "WEB-04": {
+      "taskId": "WEB-04",
+      "toolCalls": 3,
+      "subAgentCalls": 0,
+      "consecutiveFails": 0,
+      "startTime": 1787848222351,
+      "lastActivity": 1787848301487
+    },
+    "WEB-07": {
+      "taskId": "WEB-07",
+      "toolCalls": 0,
+      "subAgentCalls": 0,
+      "consecutiveFails": 0,
+      "startTime": 1787853482158,
+      "lastActivity": 1787853482158,
+      "traceId": "1caf21cd-149f-4830-a6a7-19c7553fb918"
+    }
+  }
+}
