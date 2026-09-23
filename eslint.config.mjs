@@ -51,7 +51,7 @@ const eslintConfig = [...nextCoreWebVitals, ...nextTypescript, {
     "no-useless-escape": "off",
   },
 }, {
-  ignores: ["node_modules/**", ".next/**", "out/**", "build/**", "next-env.d.ts", "examples/**", "skills", "referencias/**", "public/vanta-wasm/**", "remotion/**", "screenshot-before.js", "web06-verify.cjs", "playwright.config.ts"]
+  ignores: ["node_modules/**", ".next/**", "out/**", "build/**", "next-env.d.ts", "examples/**", "skills", "referencias/**", "public/vanta-wasm/**", "remotion/**", "screenshot-before.js", "web06-verify.cjs", "playwright.config.ts", ".opencode/**"]
 }];
 
 export default eslintConfig;
