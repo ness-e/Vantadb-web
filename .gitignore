@@ -57,3 +57,5 @@ server.log
 
 # Local-only agent tooling (untracked, stays on disk)
 .opencode/
+.vercel
+.env*
